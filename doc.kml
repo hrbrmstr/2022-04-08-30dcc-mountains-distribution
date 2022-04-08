@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+    <name><![CDATA[List of volcanoes in Iceland]]></name>
+    <open>1</open>
+    <Folder>
+        <name><![CDATA[List]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Askja]]></name>
+            <Point>
+                <coordinates>-16.75,65.03,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bárðarbunga]]></name>
+            <Point>
+                <coordinates>-17.56,64.64,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Brennisteinsfjöll]]></name>
+            <Point>
+                <coordinates>-21.83,63.92,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Eldfell]]></name>
+            <Point>
+                <coordinates>-20.25,63.43,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Eldgjá]]></name>
+            <Point>
+                <coordinates>-18.37,64.24,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Esjufjöll]]></name>
+            <Point>
+                <coordinates>-16.65,64.27,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Eyjafjallajökull]]></name>
+            <Point>
+                <coordinates>-19.62,63.63,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Fagradalsfjall]]></name>
+            <Point>
+                <coordinates>-22.27,63.89,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Fremrinámur]]></name>
+            <Point>
+                <coordinates>-16.65,65.43,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Grensdalur]]></name>
+            <Point>
+                <coordinates>-21.17,64.02,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Grímsnes]]></name>
+            <Point>
+                <coordinates>-20.87,64.03,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Grímsvötn]]></name>
+            <Point>
+                <coordinates>-17.33,64.42,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hekla]]></name>
+            <Point>
+                <coordinates>-19.7,63.98,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Helgafell]]></name>
+            <Point>
+                <coordinates>-20.26,63.43,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hengill]]></name>
+            <Point>
+                <coordinates>-21.33,64.18,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Herðubreið]]></name>
+            <Point>
+                <coordinates>-16.34,65.18,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hofsjökull]]></name>
+            <Point>
+                <coordinates>-19.53,64.85,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Holuhraun]]></name>
+            <Point>
+                <coordinates>-16.83,64.84,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hrómundartindur]]></name>
+            <Point>
+                <coordinates>-21.2,64.07,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hveravellir]]></name>
+            <Point>
+                <coordinates>-19.98,64.75,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hverfjall]]></name>
+            <Point>
+                <coordinates>-16.53,65.36,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Jólnir]]></name>
+            <Point>
+                <coordinates>-20.63,63.3,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Katla)]]></name>
+            <Point>
+                <coordinates>-19.05,63.63,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kerlingarfjöll]]></name>
+            <Point>
+                <coordinates>-19.32,64.63,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kolbeinsey]]></name>
+            <Point>
+                <coordinates>-18.5,66.67,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#List">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kollóttadyngja]]></name>
+            <Point>
+                <coordinates>-16.55,65.22,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krafla]]></name>
+            <Point>
+                <coordinates>-16.78,65.73,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krakatindur]]></name>
+            <Point>
+                <coordinates>-19.3,63.55,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Krýsuvík]]></name>
+            <Point>
+                <coordinates>-22.1,63.93,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kverkfjöll]]></name>
+            <Point>
+                <coordinates>-16.72,64.65,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Laki]]></name>
+            <Point>
+                <coordinates>-18.22,64.06,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Fögrufjöll]]></name>
+            <Point>
+                <coordinates>-17.8,64.48,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ljósufjöll]]></name>
+            <Point>
+                <coordinates>-22.23,64.87,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lýsuhóll]]></name>
+            <Point>
+                <coordinates>-23.25,64.87,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Öræfajökull]]></name>
+            <Point>
+                <coordinates>-16.65,64,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Prestahnúkur]]></name>
+            <Point>
+                <coordinates>-20.6,64.6,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Reykjanes]]></name>
+            <Point>
+                <coordinates>-22.5,63.88,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Reykjaneshryggur]]></name>
+            <Point>
+                <coordinates>-23.33,63.67,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Snæfellsjökull]]></name>
+            <Point>
+                <coordinates>-23.78,64.8,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Surtsey]]></name>
+            <Point>
+                <coordinates>-20.62,63.3,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Theistareykjarbunga]]></name>
+            <Point>
+                <coordinates>-16.83,65.88,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Thordarhyrna]]></name>
+            <Point>
+                <coordinates>-17,64.12,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Thórólfsfell]]></name>
+            <Point>
+                <coordinates>-19.67,63.72,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Thrihnukagigur]]></name>
+            <Point>
+                <coordinates>-21.7,63.99,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tindfjallajökull]]></name>
+            <Point>
+                <coordinates>-19.57,63.78,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Torfajökull]]></name>
+            <Point>
+                <coordinates>-19.17,63.92,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Trölladyngja]]></name>
+            <Point>
+                <coordinates>-17.25,64.89,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Tungnafellsjökull]]></name>
+            <Point>
+                <coordinates>-17.92,64.73,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Vatnafjöll]]></name>
+            <Point>
+                <coordinates>-19.67,63.92,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_volcanoes_in_Iceland#cite_ref-1">List of volcanoes in Iceland</a>]]></description>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>
